@@ -2,7 +2,7 @@
 ## with Linear Regression Analysis
 
 
-![google_search](../assets/google_search_pic.jpg)
+![google_search](/assets/google_search_pic.jpg "google_search_pic")
 
 ## Overview
 

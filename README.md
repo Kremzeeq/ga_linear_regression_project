@@ -25,6 +25,14 @@ There are four parts to the project, and these are viewable as webpages, via lin
 
 Here's the [jupyter notebook](https://github.com/Kremzeeq/ga_linear_regression_project/blob/master/jupyter_notebooks/GA_Linear_Regression_Analysis_P4-Dashboarding.ipynb) with source code for reproducing the dashboard. 
 
+This has been produced using a Virtual Environment with Python 3.7.5.
+
+Please ensure to install the requirements for the project. This command helps ensure all requirements are installed
+
+```
+while read requirement; do conda install --yes $requirement; done < requirements.txt
+```
+
 ## Known issues with dashboard
 
 * **Section A**: 
